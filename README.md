@@ -1,4 +1,4 @@
-# Notas:
+# Notes:
 
 This is a sever little of express, it's ready to run the forlder public at the web.
 
