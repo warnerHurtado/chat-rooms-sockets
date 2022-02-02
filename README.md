@@ -11,10 +11,10 @@ npm install
 ```
 
 System funcions:
-  -Communication between users
-  -Communication one to many
-  -Communication one to one
-  -Communication betwenn rooms
-  -Chat desing
-  -Login desing
-  -Notifications of entry and exit of users
+  -Communication between users.
+  -Communication one to many.
+  -Communication one to one.
+  -Communication betwenn rooms.
+  -Chat desing.
+  -Login desing.
+  -Notifications of entry and exit of users.
