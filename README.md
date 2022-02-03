@@ -1,6 +1,6 @@
 # Notes:
 
-This is a websever created with socket.io and express, it's ready to run the forlder public at the web.
+This is a webserver created with socket.io and express, it's ready to run the forlder public at the web.
 
 In here project you can make rooms to chatting with whoever you want, also you can send personal messages.
 
